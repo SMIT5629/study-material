@@ -1,0 +1,152 @@
+{
+    "materialTypes": {
+        "syllabus": "Syllabus",
+        "papers": "GTU Papers",
+        "paperSolution": "Paper Solution",
+        "imp": "IMP",
+        "qna": "QNA",
+        "gtuBook": "GTU Book",
+        "studyMaterial": "Study Material"
+    },
+    "semesters": [
+        {
+            "id": 1,
+            "name": "Semester 1",
+            "subjects": [
+                {
+                    "id": "BE",
+                    "name": "Basic Engineering",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1YmjgHAfxxqMVaQtXZiw_WaACVTz2FGXn",
+                        "papers": "https://drive.google.com/drive/folders/1V4KInK0H4BQE78Yr0NVdIkmr9LEuRELX",
+                        "paperSolution": "https://drive.google.com/drive/folders/15_uzq2wYQ8QuYxgw2EnZz6ve_BfVyZRV",
+                        "imp": "https://drive.google.com/drive/folders/1xaznJnUF-3xB9aJz59h8dm5XWv0bwk3G",
+                        "qna": "https://drive.google.com/drive/folders/1Pwjjvt1Py77iZvxPRRjQm-cb8vg8tezq",
+                        "gtuBook": "https://drive.google.com/drive/folders/1LlfTsqct1yEsxgHTKLQvbABgQ9pdx8n5",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1olXJwX3KvfyAbaiJpcaeHTNnG6UCOYru"
+                    }
+                },
+                {
+                    "id": "BEE",
+                    "name": "Basic Electrical Engineering",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1Lmnd0X73daTYHjVgF_PA0MXAMobAsD_i",
+                        "papers": "https://drive.google.com/drive/folders/1-N6R2BcYHG-QIbzIa3t-TdACcWt03RUk",
+                        "imp": "https://drive.google.com/drive/folders/1xnOiGB_3ulvVS5HJvlJeVpE11V0xtDp8",
+                        "qna": "https://drive.google.com/drive/folders/1dTDtNyGd7xWI9PtOq99eHGmto2FFwG_c",
+                        "gtuBook": "https://drive.google.com/drive/folders/1ZF_89GgQ3UXWs0SMX_VPw0SM8UNaahIO",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1aM3n2cC6jKljs9L40yO9e398iYZdkDpj"
+                    }
+                },
+                {
+                    "id": "BME",
+                    "name": "Basic mechanical Engineering",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1o81X3NX8QchyJWWdsBajUN75PxGQ4Bsj",
+                        "papers": "https://drive.google.com/drive/folders/1j-PkQIZnusNJhr9D-3U4422hGQHMS-nY",
+                        "imp": "https://drive.google.com/drive/folders/1DduFkCQIh3AaRd07XREv2f0VGkXBe-Ia",
+                        "gtuBook": "https://drive.google.com/drive/folders/1oF8DIWciw6k45BpAe7ddZMkDvL3kk7KG",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1K3lJCrwPuTl0Icm_3bdpDEx--f12TrTh"
+                    }
+                },
+                {
+                    "id": "EGD",
+                    "name": "Engineering Graphics and Design",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/11iv_qVavty66B4Dd_weYEs0yv7pnwvoi",
+                        "papers": "https://drive.google.com/drive/folders/1KqF-LO-Qgz9vB15Oh81GAINNd1WA2FQH",
+                        "imp": "https://drive.google.com/drive/folders/1hAoiOhfApqo_D8Q7Ixkk472xlOMJGQ_b",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1Zw2ugRD5opdU4yOJgoqONhsJo-7BL0xu",
+                        "ppts": "https://drive.google.com/drive/folders/1aSemwP9BQ2iGPpRv1xrpAHR_67-AQczx",
+                        "sheets": "https://drive.google.com/drive/folders/1Ug7oQWG_wbbsDqj0x7IeM6VS575oTUFq",
+                        "playlistsPdf": "https://drive.google.com/drive/folders/1Vy2gl56UsuHOVZ2w0eecwSyBd20-iPDf"
+                    }
+                },
+                {
+                    "id": "English",
+                    "name": "English",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1erZckJVTk29AkIAHD_E-391VCijiTXsB",
+                        "papers": "https://drive.google.com/drive/folders/1pimgDxgxhOp-th7DFvbcQl2KjEXdWRVr",
+                        "paperSolution": "https://drive.google.com/drive/folders/1wlTcPOj--olXTbf6oMqV1kKWmZbf2p_5",
+                        "imp": "https://drive.google.com/drive/folders/1SnZMFutuIC5YGmn2gjUSG2vuqxG47QUe",
+                        "gtuBook": "https://drive.google.com/drive/folders/1SQikHc8R4QowbosDHZde4GfjJwbmsFud",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1P95Si1J1WVgAlrckvNs9hYvieI1HM1SZ",
+                        "extraMaterials": "https://drive.google.com/drive/folders/1aVkHaeKiiwFp_drr3OUwtu-QUPZtW0cd"
+                    }
+                },
+                {
+                    "id": "ES",
+                    "name": "Environmental Science",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1OmXT6_r30UMrL4Mfjb0pbVswBbW91BQc",
+                        "papers": "https://drive.google.com/drive/folders/1DVJnLfAjlU8woHmz8noh8Ozfcce0rJP1",
+                        "imp": "https://drive.google.com/drive/folders/15y-uZa7d3RO30L8NqnNI49unBZgMTn71",
+                        "gtuBook": "https://drive.google.com/drive/folders/1hvENhDtKw8BrZRLiwOs-CKM3wyLGJUJ9",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1bzb7mRtNld9_NJcmtvQpHsFi8dew0HDT"
+                    }
+                },
+                {
+                    "id": "MATH1",
+                    "name": "Mathematics 1",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/198zBdLRN-G4JxRTLCP_yZjon9nDu9yKy",
+                        "papers": "https://drive.google.com/drive/folders/1W28GP9k7bwttK6A9dFUMFfCmJR9xDhmN",
+                        "imp": "https://drive.google.com/drive/folders/1zOhxc9wtUwlF8krKRjVHNQpRGwmGJh27",
+                        "gtuBook": "https://drive.google.com/drive/folders/13edTHY57_jqa5ggARk8nSGIjTHi4o1Qn",
+                        "studyMaterial1": "https://drive.google.com/drive/folders/1W3z0QSFJ2VAETD1K1S9H7P_SHSHrlx5x",
+                        "studyMaterial2": "https://drive.google.com/drive/folders/1Kjb5Dq5ODdeEnzN9xKNMlgAohWd6ys_d",
+                        "extraMaterials": "https://drive.google.com/drive/folders/1C6rPJVhQM1F3RMsA1qrDEgIjmz3dkIBo"
+                    }
+                },
+                {
+                    "id": "MATH2",
+                    "name": "Mathematics 2",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1y2C7i20anNrg0a5MTbuzIUHf5W_R-Fsx",
+                        "papers": "https://drive.google.com/drive/folders/1Wtc6f00Ji0Kkw5l1O8uq6weuyaQl_u8e",
+                        "imp": "https://drive.google.com/drive/folders/1o67QiYuBM8uVKIJEq0mJu1Mu3Dd5v2S3",
+                        "gtuBook": "https://drive.google.com/drive/folders/1aRK3Mmt_xtmDOtiNXEb8vQB9t1PWCoRO",
+                        "studyMaterial1": "https://drive.google.com/drive/folders/1dzGEm8x17-2DiaoDubc2doCwxa4xDan1",
+                        "studyMaterial2": "https://drive.google.com/drive/folders/1Pum8QzA_N065hb4UCCHYa9I6t8OmKyM-"
+                    }
+                },
+                {
+                    "id": "PY2",
+                    "name": "Physics 2",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1oGBTBVhL1k291e--DGe3wDAU-ov6DIl8",
+                        "papers": "https://drive.google.com/drive/folders/1XLrJ1oSj-coEk8utTCSRk8U_mE_1pIXC",
+                        "imp": "https://drive.google.com/drive/folders/1zIPb06K6egPCbmmNqhb0GF0QY2vltvw0",
+                        "gtuBook": "https://drive.google.com/drive/folders/1TsMomReEwb1TrBNerJokhHZaw7iU0R_s",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1cTff3BwCWVOkWciirqyjPw2yY1s7Nfv9"
+                    }
+                },
+                {
+                    "id": "PPS",
+                    "name": "Progarmming for Problem Solving",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1Ec-pcNJ_6ipkLvKBzZlsBtj8C9d4cx2R",
+                        "papers": "https://drive.google.com/drive/folders/1qwGDRSDb-BDpPp-cgGXtP8n8kWAtXwuI",
+                        "paperSolutions": "https://drive.google.com/drive/folders/1SFymlGOrJaElxZQVufWNoW_W3-LbdmwD",
+                        "imp": "https://drive.google.com/drive/folders/14labtO0Rd56TP1tzxKI4CzfxY2u7cahv",
+                        "impQna": "https://drive.google.com/drive/folders/1osWo10-jGCq5jvHATpOVODaDkrS2xwTE",
+                        "mimpQna": "https://drive.google.com/drive/folders/1BYFyq9R_oEwvILTpyWJTwJbTyKItrmvk",
+                        "pptPdfs": "https://drive.google.com/drive/folders/11J3mxc-s0xFs-Ifu5Pexhd9rLh07OdtG",
+                        "gtuBook": "https://drive.google.com/drive/folders/1MwfS-mboxgkKHn7mXoI-f7qCSEE2v30v",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1dkh2rwYDZ6NCCdnLQZiANadS1ExQH8VM",
+                        "labManual": "https://drive.google.com/drive/folders/130YILhSPkyIzfSRW-vq7FhO-hGvLaQWT"
+                    }
+                },
+                {
+                    "id": "LAB",
+                    "name": "Lab Manuals",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1gfSMQCIl_RH480s30bruyqMOdyMrmbJc",
+                        "labManual": "https://drive.google.com/drive/folders/1Ii6DQBVZeS5kTzmvDq4RqHSzVZudlHiR"
+                    }
+                }
+            ]
+        }
+    ]
+}

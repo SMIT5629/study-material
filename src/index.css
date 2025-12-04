@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 20px;
+}
+
+.sem-card,
+.subject-card,
+.resource-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  transition: 0.2s;
+}
+
+.sem-card:hover,
+.subject-card:hover,
+.resource-card:hover {
+  background: #f2f2f2;
+}
