@@ -3,15 +3,37 @@
         "syllabus": "Syllabus",
         "papers": "GTU Papers",
         "paperSolution": "Paper Solution",
+        "ppts": "PPTs",
+        "sheets": "Sheets",
+        "playlistsPdf": "Playlists PDF",
         "imp": "IMP",
         "qna": "QNA",
+        "practicalsPlaylist": "Practicals Playlist",
+        "referenceBooks": "Reference Books",
+        "labPpts": "Lab PPTs",
+        "pptPdf": "PPT PDF",
+        "paperSolutions": "Paper Solutions",
+        "impQna": "IMP QNA",
+        "mimpQna": "More IMP QNA",
+        "pptPdfs": "PPT PDFs",
+        "labManual": "Lab Manual",
+        "playlist": "Playlist",
+        "canvas": "Canvas",
+        "mac": "MAC",
+        "links": "Links",
+        "projectGuidance": "Project Guidance",
+        "calculatorTricks": "Calculator Tricks",
+        "paperSolutionPlaylist": "Paper Solution Playlist",
         "gtuBook": "GTU Book",
-        "studyMaterial": "Study Material"
+        "studyMaterial": "Study Material",
+        "studyMaterial1": "Study Material 1",
+        "studyMaterial2": "Study Material 2",
+        "extraMaterials": "Extra Materials"
     },
     "semesters": [
         {
             "id": 1,
-            "name": "Semester 1",
+            "name": "Semester 1-2",
             "subjects": [
                 {
                     "id": "BE",
@@ -147,6 +169,420 @@
                     }
                 }
             ]
+        },
+        {
+            "id": 3,
+            "name": "Semester 3",
+            "subjects": [
+                {
+                    "id": "DBMS",
+                    "name": "Database Management System",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1jRSSfb092YKrtJyCTzMZDSB_rKoIWy12",
+                        "papers": "https://drive.google.com/drive/folders/1p2h6JsXAAuFi3SsgN1FX-A-A57SS6C27",
+                        "paperSolution": "https://drive.google.com/drive/folders/1wa6_U7v24sPX_dyN_oe0Ow8i5vMd1p77",
+                        "imp": "https://drive.google.com/drive/folders/1t7HcTs-Z1s_IRV-xz8REpz5wdHh2BZMx",
+                        "impQna": "https://drive.google.com/drive/folders/1Cb3-5rbxUrLj8H-WdCq5F_QMG1Zr6lYr",
+                        "mimpQna": "https://drive.google.com/drive/folders/1xOR4VGGkPKPVYD6nJ7FghpHrkmesjFg4",
+                        "pptPdfs": "https://drive.google.com/drive/folders/1sAX10h6qVv8IaJaX866Imtg8rWKP4HfM",
+                        "gtuBook": "https://drive.google.com/drive/folders/1gkve11Qj3Lv6b28Q410netjHz1w83fGd",
+                        "studyMaterial": "https://drive.google.com/drive/folders/15FbKiBmPDLg8WwMeo3wsB9BFR4Mnplhu",
+                        "labManual": "https://drive.google.com/drive/folders/11YYOuaCQcywbll1z0I0byR4emv1v_RM8"
+                    }
+                },
+                {
+                    "id": "DE1A",
+                    "name": "Design Engineering 1A",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyHWEEYx_T3wWPjsKqtzb7Vl",
+                        "syllabus": "https://drive.google.com/drive/folders/1ZjG_ggNmIJfLQHSivpqm1ItFoKLR8TP1",
+                        "canvas": "https://drive.google.com/drive/folders/1QPBxFT-OCYPM_aO7dmG842azJek-pkkD",
+                        "mac": "https://drive.google.com/drive/folders/1_AYPNdpiJl8Reh8qXQpFaklwbJVG_snb",
+                        "links": "https://drive.google.com/drive/folders/1peXfSwcOxy9dtCV4gKZQbcaVKSRUwJHB",
+                        "projectGuidance": "https://drive.google.com/drive/folders/19_h7r66WSuckm6JKfcsRfI8p1vx4_40Q"
+                    }
+                },
+                {
+                    "id": "DF",
+                    "name": "Digital Fundamentals",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyH_-yB1f3kfrKve9snu72bB",
+                        "syllabus": "https://drive.google.com/drive/folders/1Zh7ILGJO2z3jKkbBqVdq51-HmD9KQMKx",
+                        "papers": "https://drive.google.com/drive/folders/15WvMNVEhKUt53j_UXg6jNAvPthk88zKi",
+                        "paperSolution": "https://drive.google.com/drive/folders/1tZXpeRPerxuncPPCo0M1OwvNq-2z8x32",
+                        "imp": "https://drive.google.com/drive/folders/1Zmul0KRFI-AL4RwBkgU3rReMLCHdBcps",
+                        "mimpQna": "https://drive.google.com/drive/folders/1X3u3xjoY8VOUN-GS9ClGCimSHQuuq2qR",
+                        "pptPdfs": "https://drive.google.com/drive/folders/1rdHPgOIczmkTU4py1lYhM0_VkCGJTKHH",
+                        "gtuBook": "https://drive.google.com/drive/folders/1gsYhcAnsxl1ODt1Nud_HVgXhOHYQ8JVd",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1ZsTjdeBBr8rveywfHv91NycE6_jgmYWK",
+                        "labManual": "https://drive.google.com/drive/folders/1ASNqGd7g27ZjaKE1Wo8ia4U4pmoEpu5k"
+                    }
+                },
+                {
+                    "id": "DS",
+                    "name": "Data Structures",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1749Un0BC-UTgJHCjUCwDajLeC7DyNcZE",
+                        "papers": "https://drive.google.com/drive/folders/1F0umpnm4JlzA0TBHQg5gY87SydnmEQ02",
+                        "paperSolution": "https://drive.google.com/drive/folders/1fHmIw0otbQuWbEllnxoMl8u-mYrl0LpB",
+                        "imp": "https://drive.google.com/drive/folders/1QUT9ZoWvoB9yP3r6ZT8BTPxymorBQGmA",
+                        "impQna": "https://drive.google.com/drive/folders/1cKiUNGadOOahE7S5z8NenbTSbu6VvjGy",
+                        "mimpQna": "https://drive.google.com/drive/folders/1Zvc2YgoIlCABAtAjG-MdloXHwo24bsTS",
+                        "pptPdfs": "https://drive.google.com/drive/folders/1T5lTFV3m5W_z_qSVbp59SsyNdILBmp_T",
+                        "gtuBook": "https://drive.google.com/drive/folders/1ebcpwOxVNKKF0uriAniRH1297sw_WLvB",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1SPXTdFkddq6Ox0bX47svxsdfX9FatKjq",
+                        "labManual": "https://drive.google.com/drive/folders/1vYNjn2QyvvQkWR4TUR4kWQ4PJbwLNdh3"
+                    }
+                },
+                {
+                    "id": "ETC",
+                    "name": "ETC",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1fYAtrRAE7N9nPBANIGcu_RN1OykxV2IR",
+                        "papers": "https://drive.google.com/drive/folders/1L4FR3g3ggBAHdyaeENGWerQiHWrSHbXZ",
+                        "paperSolution": "https://drive.google.com/drive/folders/1ptNH4Uk0tMxeVmHYk4ZFNuLrr1QvtjI7",
+                        "imp": "https://drive.google.com/drive/folders/1ny6ry2CUXRcJmya3b6t37qpEjerTIuIq",
+                        "mimpQna": "https://drive.google.com/drive/folders/1MAK173sFBkdCEKT3q0pOkyzhOd5zS0nJ",
+                        "pptPdfs": "https://drive.google.com/drive/folders/1namZKAD5FoUkyf7OTa7xlVZ18-j3KFW5",
+                        "gtuBook": "https://drive.google.com/drive/folders/1udweaPUMxfTE9oXgAz4OqJ1sYLMcuqca",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1-RBJAZrU89sKYgdGEDgxnwj7Ownrn08H"
+                    }
+                },
+                {
+                    "id": "IC",
+                    "name": "IC",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1egznPvI6IgXhR4MG1bTD9EK_ATaqigxB",
+                        "papers": "https://drive.google.com/drive/folders/1AjQLrcQLTN2j8elBGUL8oznHK6oT0omv",
+                        "paperSolution": "https://drive.google.com/drive/folders/10AvROr5wvHqi-wcvmLY-Li0g-Id1BqUZ",
+                        "imp": "https://drive.google.com/drive/folders/1uHbgDPowL3Tb68SLFvGa_Eekn_hWr-vK",
+                        "mimpQna": "https://drive.google.com/drive/folders/1RFWMxL6vULpFmvdW7LmOk7slTRz3Z23z",
+                        "pptPdfs": "https://drive.google.com/drive/folders/1ax04dDvxXD2dQSmxBy3eopfeG5xXpxSX",
+                        "gtuBook": "https://drive.google.com/drive/folders/1tmxEr2rStSBJ92ZAMMfTAZrCj-1xF5C8",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1OG-unh3kTSIWzHKfONtDVJSVgmnJFGz1"
+                    }
+                },
+                {
+                    "id": "PS",
+                    "name": "Probability & Statistics",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyHASx368hL9xBYLEXM-nTXA",
+                        "paperSolutionPlaylist": "https://youtube.com/playlist?list=PLNiD0MJqUzyGT3RZm4NJ57_I92hDm-rrP",
+                        "calculatorTricks": "https://youtube.com/playlist?list=PLNiD0MJqUzyEYtn-xaDnNYOHP8HV2glHv",
+                        "syllabus": "https://drive.google.com/drive/folders/1WxQgCaUSUmvrJoHzIKuBBEJ-X35oeoR9",
+                        "papers": "https://drive.google.com/drive/folders/1zr1pFvymYkOGQFod75cG18-bCAeHbPFd",
+                        "gtuBook": "https://drive.google.com/drive/folders/1uwU7SfcytTjxpqtGSB9hb0mbuGqfC_u8",
+                        "studyMaterial": "https://drive.google.com/drive/folders/10kKYxr6wbUQSd5D5EVSnWooZzhMj9-H9"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Semester 4",
+            "subjects": [
+                {
+                    "id": "COA",
+                    "name": "Computer Organization & Architecture",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFUWvkquMNIckIrLIh4RuTf",
+                        "syllabus": "https://drive.google.com/drive/folders/18Jsm7lP8Rl9J8YVBtPMnt-F_7VMWq5AY",
+                        "papers": "https://drive.google.com/drive/folders/1VfmXtbYY7c0kdLkyQy7J-B7yia3hglcR",
+                        "paperSolution": "https://drive.google.com/drive/folders/1nf0Qneo3EdNAUlNQXiRJTdHgBlt4iCoA",
+                        "mimpQna": "https://drive.google.com/drive/folders/1zYN4ZEyMW8Oh9hAvyzwxOwNNI-za-pJ5",
+                        "pptPdf": "https://drive.google.com/drive/folders/1SQfEnLDkwk1kNEw5SiGo5j3ogrVZtEYC",
+                        "gtuBook": "https://drive.google.com/drive/folders/1hIN3TWFUq4x0bDlHAQD3hjRe4MAvjFDI",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1EMhZoCeClm3qsdOPGnepu4jptDI2J3le",
+                        "labManual": "https://drive.google.com/drive/folders/1FT5HcqNKiSKzIA-X1UmljL_uvsAeqEr6"
+                    }
+                },
+                {
+                    "id": "DE1B",
+                    "name": "Design Engineering 1B",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyHWEEYx_T3wWPjsKqtzb7Vl",
+                        "syllabus": "https://drive.google.com/drive/folders/1AJHp0sEq--82N2-ZXWiBi69oc8xq4y8t",
+                        "canvas": "https://drive.google.com/drive/folders/1QPBxFT-OCYPM_aO7dmG842azJek-pkkD",
+                        "mac": "https://drive.google.com/drive/folders/1_AYPNdpiJl8Reh8qXQpFaklwbJVG_snb",
+                        "links": "https://drive.google.com/drive/folders/1peXfSwcOxy9dtCV4gKZQbcaVKSRUwJHB",
+                        "projectGuidance": "https://drive.google.com/drive/folders/19_h7r66WSuckm6JKfcsRfI8p1vx4_40Q"
+                    }
+                },
+                {
+                    "id": "DM",
+                    "name": "Discrete Mathematics",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFig8W6TLF6AT4E7UVyorb9",
+                        "paperSolutionsPlaylist": "https://youtube.com/playlist?list=PLNiD0MJqUzyF3tPWHknwMGn1OTb4ba6Ji",
+                        "syllabus": "https://drive.google.com/drive/folders/1b_vVWxeBa_pmJFgAQaa6I4yJXcaSSbcI",
+                        "papers": "https://drive.google.com/drive/folders/1IhVJerRZInaAdRpGyN0OWFOfypyYMDKT",
+                        "gtuBook": "https://drive.google.com/drive/folders/1jhdrCv-kXQ7UYWX2y1FztlMZloHupndf",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1F2F4_PegmDqb8cEVwW12f61OWWGNkM4m"
+                    }
+                },
+                {
+                    "id": "OOP1",
+                    "name": "Object-Oriented Programming - I",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1jbf-b5JDk5Sql2P0vQxwe5vU2mIH68gz",
+                        "papers": "https://drive.google.com/drive/folders/1PD_-lDJ-j1JStXi7lwgP8bQ8uGWUQhSe",
+                        "paperSolution": "https://drive.google.com/drive/folders/1hk7G7FrRJ25WOUv8gzt26AvUuz6fSCVK",
+                        "imp": "https://drive.google.com/drive/folders/1eCFojVbFH1uOkgWe1P1KBeUetOx6eMBE",
+                        "impQna": "https://drive.google.com/drive/folders/1w75KdqKyCFdnAJ-Z-cfKnFXrVi5IU1YA",
+                        "mimpQna": "https://drive.google.com/drive/folders/1LUT4avpiIhvPrS4UP0yYKrAuSwT0V4cY",
+                        "pptPdf": "https://drive.google.com/drive/folders/1_KJVuw9eKVPIQU6qC5neviEnV2OgSofN",
+                        "gtuBook": "https://drive.google.com/drive/folders/13fI7xqApTA6XJzPe-kZg6ysdCG_Duuil",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1x1ydwgBVgdg9DZd2UVVh8ofqlAUA1G3a",
+                        "labManual": "https://drive.google.com/drive/folders/1qfAec0A94dyKAGkwSGwRXQM88bnNW1vE"
+                    }
+                },
+                {
+                    "id": "OS",
+                    "name": "Operating System",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFQjsrJkJYs67Mpy5svZgdf",
+                        "syllabus": "https://drive.google.com/drive/folders/1NO63wf6glr1hhx4eHUFpjvLMTpYtWPgn",
+                        "papers": "https://drive.google.com/drive/folders/1V72A0dS1NvC3P6ym1HDq8E-TtaN-saQs",
+                        "paperSolution": "https://drive.google.com/drive/folders/1qNAD8ZdcAFcuErLWt5ObhHDbomtGMYcG",
+                        "impQna": "https://drive.google.com/drive/folders/1pyzQ2KA8arBLrMlUp1hblzSxV31Bz-0S",
+                        "pptPdf": "https://drive.google.com/drive/folders/1AWap0AMh7KOUz0joMcnCBcmLKRjbJZNr",
+                        "gtuBook": "https://drive.google.com/drive/folders/1TUGgmLUjC9FYLlBEjWoFF0m1dCkgmFe2",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1f4o1G7XzHSO3s5laFs5WtyzMok2KtEuW",
+                        "labManual": "https://drive.google.com/drive/folders/1HY9Ci_K2hxnnvVUCgvtTAR4t_zphmS0G"
+                    }
+                },
+                {
+                    "id": "PEM",
+                    "name": "Principle of Engineering Management",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1hT4j4s026tdNfTW3x3BWiFA73oh8YPIK",
+                        "papers": "https://drive.google.com/drive/folders/1mBUq3kiEzl7Vj1IV2F1Jgbwdn4zJh4S9",
+                        "paperSolution": "https://drive.google.com/drive/folders/14Drq5Bidg-YqaSlVo6UrT6J6mnRSpCCW",
+                        "imp": "https://drive.google.com/drive/folders/1EuvO5bnYnI_bZJnVbZyN_sw4z9WokyF2",
+                        "mimpQna": "https://drive.google.com/drive/folders/1UmGOPsbcF4fwOD9E_u14jrIRluyE2pO5",
+                        "pptPdf": "https://drive.google.com/drive/folders/1CvqpJ4YGEjC8KulyBogersoAyXLBwz7C",
+                        "gtuBook": "https://drive.google.com/drive/folders/1zuzgyuNr4ujpzzmXxaWc53wru47H-Smw",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1M-DSWbNEu1qNqLQTNqdtuQ9GsFHChGz8",
+                        "extraMaterials": "https://drive.google.com/drive/folders/1zenSuZYviRs4peo-ydxuSlZcsymwhWrs"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Semester 5",
+            "subjects": [
+                {
+                    "id": "ADA",
+                    "name": "Analysis and Design of Algorithms",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFIs5vdYut37LJao0R5DGHV",
+                        "syllabus": "https://drive.google.com/drive/folders/1Z3tEaN8Cw7R-yq2WFcfXezRNEp8w-V0a",
+                        "papers": "https://drive.google.com/drive/folders/1iGaLSBz9lJjeklAehcRSWos5UGah1EHC",
+                        "paperSolution": "https://drive.google.com/drive/folders/1QVvnzyOzkGXlq9UNlvABaqk4Y5VnEewH",
+                        "pptPdf": "https://drive.google.com/drive/folders/1kuvgxqVNB1N97zM-MhMEh2qiQpfhQ6xj",
+                        "gtuBook": "https://drive.google.com/drive/folders/1GylMCGSMl0wUaczMO__MNfQyKJcOaqmr",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1ja9CTneAMCxx3PNWf7L0RnUSgzvEH0de",
+                        "labManual": "https://drive.google.com/drive/folders/1pqjPelk3Y9uXQ_LQnmVJ9KngQWUbVi_f"
+                    }
+                },
+                {
+                    "id": "CN",
+                    "name": "Computer Networks",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyEYRI_xyCcdnK3GKoE2DmfE",
+                        "practicalsPlaylist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFtd6vIdknZId7fOA64lUzP",
+                        "syllabus": "https://drive.google.com/drive/folders/1hPWK7EGmglcsb8AGaObWDnvArT2Lt7zL",
+                        "papers": "https://drive.google.com/drive/folders/1AKAGZ3uxKoyLjnXldDo3xLcukOgsJTva",
+                        "paperSolution": "https://drive.google.com/drive/folders/1OszGmJItQIkV-9Hu7FfUXmF_ZuRfKAsg",
+                        "impQna": "https://drive.google.com/drive/folders/1zGxodG_sx1oCPpQSHb34dUraxpCER78Q",
+                        "mimpQna": "https://drive.google.com/drive/folders/1SWTX0DW2QaLPptEp-ppK5zSf1hxOAFw2",
+                        "pptPdf": "https://drive.google.com/drive/folders/1q3oJ6aiqa53on1MTrj_nZ7jk05Xa5Li0",
+                        "gtuBook": "https://drive.google.com/drive/folders/1uVBdyNHvrqmXEEjXUDnxpcgMD2BEOgZt",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1ouq3kXAsj24BCfdVMq3_0yyPpepHJYqb",
+                        "extraMaterials": "https://drive.google.com/drive/folders/1FK6dbsAAJNXSM8Gf0DJ3CKYXWXsoGbna",
+                        "referenceBooks": "https://drive.google.com/drive/folders/1lmM0FkqeDtcIYt6NPBUUytiXxz-O4TO8",
+                        "labManual": "https://drive.google.com/drive/folders/1OEL4VPMlSj3QKObN7r8iKEJbQQ3aOhwA"
+                    }
+                },
+                {
+                    "id": "CS",
+                    "name": "Cyber Security",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1cY4Yyd8yrI4LOsho3P56Q35DDEFqeoxb",
+                        "paperSolution": "https://drive.google.com/drive/folders/1agLOX6-T5M8kHP3S3h3uEVLWxw-5pgx0",
+                        "imp": "https://drive.google.com/drive/folders/18PHoCIfS2jI0mRgyyGILhOjZOzk68kXS",
+                        "pptPdf": "https://drive.google.com/drive/folders/1CcskpFpY4Ysc8puoZLU9nsh2XTPYnwcE",
+                        "gtuBook": "https://drive.google.com/drive/folders/185AcqwgdQyepkrGg5-pU0F1ZYyLAGdnX",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1GzVO5HOuqT8TllreUyCpRSKv1-sd3xoX"
+                    }
+                },
+                {
+                    "id": "DE2A",
+                    "name": "Design Engineering - 2A",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyHWEEYx_T3wWPjsKqtzb7Vl",
+                        "syllabus": "https://drive.google.com/drive/folders/1bv-sQi7BywsYfZGbeN6LRZv50PTXqQbg",
+                        "canvas": "https://drive.google.com/drive/folders/1QPBxFT-OCYPM_aO7dmG842azJek-pkkD",
+                        "mac": "https://drive.google.com/drive/folders/1_AYPNdpiJl8Reh8qXQpFaklwbJVG_snb",
+                        "links": "https://drive.google.com/drive/folders/1peXfSwcOxy9dtCV4gKZQbcaVKSRUwJHB",
+                        "projectGuidance": "https://drive.google.com/drive/folders/19_h7r66WSuckm6JKfcsRfI8p1vx4_40Q"
+                    }
+                },
+                {
+                    "id": "IPDC1",
+                    "name": "Industry/Project Driven Curriculum - 1",
+                    "materials": {
+                        "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyErSGrIvFW_CHfQ3DMpQqPI",
+                        "syllabus": "https://drive.google.com/drive/folders/1W1eWct8-Hk882DE7LWXPUVDLpuJrnc5y",
+                        "papers": "https://drive.google.com/drive/folders/1IBcqDQp18bxds5EuVOC-6NVMVRbcb2I5"
+                    }
+                },
+                {
+                    "id": "PDS",
+                    "name": "Parallel and Distributed Systems",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/18l2oibs2D_I7OK9q83Rlz6d5CjH6uSx7",
+                        "papers": "https://drive.google.com/drive/folders/1kKEeUUuFSiJ5Ue5wZGeVYaceSAlvHBtC",
+                        "impQna": "https://drive.google.com/drive/folders/1cWDuXJK2VH37FzXn4l_8H1e-jKn-nsFf",
+                        "mimpQna": "https://drive.google.com/drive/folders/1YBJ7G2TIwtLkcWaOwbLLuQIUlArdUJos",
+                        "pptPdf": "https://drive.google.com/drive/folders/1dh_MAiHR-jzLohL3fB9VlEMpHaT2x389",
+                        "gtuBook": "https://drive.google.com/drive/folders/1vZRT6S1Z1Kssh-48pm2pHXezkT5Hxkb1",
+                        "studyMaterial": "https://drive.google.com/drive/folders/12rwWYBIJbtXVwEh0OeObENDHTa2-e02U",
+                        "labManual": "https://drive.google.com/drive/folders/1rajR8fT6ZzSj3mJWC8NJ8ebZYQUuhzav"
+                    }
+                },
+                {
+                    "id": "PE",
+                    "name": "Professional Ethics",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1bJRf3fonUBT_Dk6-7tmF5l3162_EDhEd",
+                        "papers": "https://drive.google.com/drive/folders/1bT412OzxN8kFv1qXtWMgm2AvK_RlQZyU",
+                        "paperSolution": "https://drive.google.com/drive/folders/1R3GHx_mIjc4vjtT05ufzDfE6HjAON_1-",
+                        "impQna": "https://drive.google.com/drive/folders/1hN1CcX4kAKOU2VNaz1iSuYmZm5i4WRl6",
+                        "mimpQna": "https://drive.google.com/drive/folders/1ns_XpMcvEIrAZO-0uNa_-SOib-35aklM",
+                        "pptPdf": "https://drive.google.com/drive/folders/1HBDr_oldy8BOzhD4g9a-Tt0i0U6EGl-4",
+                        "gtuBook": "https://drive.google.com/drive/folders/1tpe_uHG-5qu7Ow1lFva1uLjYSC5UmDI9",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1f2kZ1hTyJM244yikAv_FeygwB3Lap8zj",
+                        "extraMaterials": "https://drive.google.com/drive/folders/1rnWEDxDogdOKL-mQnqRHDjXI6Wm3VlYT"
+                    }
+                },
+                {
+                    "id": "SE",
+                    "name": "Software Engineering",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1OTd5GPZGi82EaB8bgBMMc81N2I9vBUY3",
+                        "papers": "https://drive.google.com/drive/folders/1Rf1mZ-zJbb5ksDV2-ITnmLgvA9CauSzM",
+                        "paperSolution": "https://drive.google.com/drive/folders/14Xgd18aKUy8RbuD4FCH2W0E_4JB90SAy",
+                        "impQna": "https://drive.google.com/drive/folders/1Jho8YWv_UArl-6lJXFzN6MpuNM_wZcal",
+                        "mimpQna": "https://drive.google.com/drive/folders/1U8v2tKF8vySIcuMxWEuLt0n3NFDbjTNX",
+                        "pptPdf": "https://drive.google.com/drive/folders/1SSp798vVNwGw0vmNdD82v151iCjWyxC2",
+                        "gtuBook": "https://drive.google.com/drive/folders/1lVt-dVXxIId5gbRkZnAJLl1MDkcWLkGK",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1196g3EJFgT6v7GgbyRwP4HFqjxL-TB5p",
+                        "labManual": "https://drive.google.com/drive/folders/1oya8iH3Ky2y_h4vZPoUrS92KxXlrTUgR"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Semester 7",
+            "subjects": [
+                {
+                    "id": "AI",
+                    "name": "Artificial Intelligence",
+                    "materials": {
+                        "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyF4Kysh2ybeujieSidvXgrG",
+                        "syllabus": "https://drive.google.com/drive/folders/1PEdl_Bcx_5GE-j5_hejESO84NO_nyYBh",
+                        "papers": "https://drive.google.com/drive/folders/1pCI3KuWC9cbUYlkPUaX_SoPh8ZA20yaw",
+                        "mimpQna": "https://drive.google.com/drive/folders/1R8voqAEjGtFSXMAY69HRKfD3nAGRBDYh",
+                        "pptPdf": "https://drive.google.com/drive/folders/1-vm0Ea4Ark9ETN5_Vi7IxvZ0TTQF3rH4",
+                        "gtuBook": "https://drive.google.com/drive/folders/17JL2PXPEuE0ABKKIUZ4wKTzoK0fZkWfT",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1Kv_N4bPZQiA9yi_Cx_O_eTE_mYOYzpoO",
+                        "labManual": "https://drive.google.com/drive/folders/1ELEBsTGxGqVoxC7mqcj_HevjgboVDwfC"
+                    }
+                },
+                {
+                    "id": "BDA",
+                    "name": "Big Data Analytics",
+                    "materials": {
+                        "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyF-uv-F0LEDGnF8jET3aaeu",
+                        "syllabus": "https://drive.google.com/drive/folders/1zSUgz-3bFhYggFvlwLVpeNyXHFvxx1ZW",
+                        "papers": "https://drive.google.com/drive/folders/1jkd685RyDEZ_0Vu0eBXUCU3OSdXgkCVr",
+                        "mimpQna": "https://drive.google.com/drive/folders/1iQrg0Xtui4jPaGRxyrcerVPRtar0ydmQ",
+                        "pptPdf": "https://drive.google.com/drive/folders/1nCjEHOOE8mw379iG6pr7b-SNPiLAoLDf",
+                        "gtuBook": "https://drive.google.com/drive/folders/1uv6-lTEE6tKoiIu3GIwiHajkD7i_OYsB",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1bn94fGWXEiXBc6VTmpUfQ3c0vHFCQ0fP",
+                        "labManual": "https://drive.google.com/drive/folders/1EvqdzQFMqVKcv4dMsPXE96R4BgyWMG0y"
+                    }
+                },
+                {
+                    "id": "CD",
+                    "name": "Compiler Design",
+                    "materials": {
+                        "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyHfwTqSe7Tce43XwHfLlXU9",
+                        "syllabus": "https://drive.google.com/drive/folders/1HDogKMRHzuC9eL_6c8-dMEpatRc8DhWk",
+                        "papers": "https://drive.google.com/drive/folders/1eOCCQ7hTdoLNjtdBj9laWTHJmjnpx-Cj",
+                        "mimpQna": "https://drive.google.com/drive/folders/1TOZ3L_lso_WSNQMrBexGqOaPtf4Izx9s",
+                        "pptPdf": "https://drive.google.com/drive/folders/1xExcpM-PuJpEwxbguR62AKy-xpgupk0A",
+                        "gtuBook": "https://drive.google.com/drive/folders/17KcPTg6vXYRc7dmYdG8hvdhMJjWK--ti",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1zomx0WTHqHcTmT652CXs_QgbqqUDtVk6",
+                        "labManual": "https://drive.google.com/drive/folders/1h1PQghSVPbq4LwqSnilr2uD9Ab9uRam2"
+                    }
+                },
+                {
+                    "id": "IS",
+                    "name": "Information Security",
+                    "materials": {
+                        "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyEIiYUvoPXJAxRlq06N21qi",
+                        "syllabus": "https://drive.google.com/drive/folders/1kPz2wLjZnpMuXkRKVjn1WRCciDmlPV7v",
+                        "papers": "https://drive.google.com/drive/folders/1Tf9cT7JK-4Y1Hv-BeZ30F53bAegYDDlg",
+                        "mimpQna": "https://drive.google.com/drive/folders/1HFuIhQykCVxCpFft54jYTIfQ3Gz0vm74",
+                        "pptPdf": "https://drive.google.com/drive/folders/1HXCLuVb2FDG_-aL6c2Z2GLbT8I06UGpU",
+                        "gtuBook": "https://drive.google.com/drive/folders/1JV-i00b4skMGaD3_ahTFCjpOokrbVjGn",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1Jmf4BOvY4WdPTVN-Zj84lx2YBABUx_5E",
+                        "labManual": "https://drive.google.com/drive/folders/1tjcnNfNCVXrotG2GjoJKkOND2uW9EPQ8"
+                    }
+                },
+                {
+                    "id": "MAD",
+                    "name": "Mobile Application Development",
+                    "materials": {
+                        "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyHAJ57jVv_r7mKsbSr9Wgd_",
+                        "syllabus": "https://drive.google.com/drive/folders/1k_8Nc6aDTMXjb9-3zy-7Qj8_zSijdZrd",
+                        "papers": "https://drive.google.com/drive/folders/1onA6iWBXVPMS1rVFj56xtZ3iMGiM8v81",
+                        "pptPdf": "https://drive.google.com/drive/folders/1oRQYFyDmxRxPz2yV09d2AMoAUUihEuwC",
+                        "gtuBook": "https://drive.google.com/drive/folders/13yLm8dGYWoCdToSdaiL8EEN3c9-6GIWZ",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1KoReoH3q9cvWgfoE0-bDARICWcLdj7L-",
+                        "labManual": "https://drive.google.com/drive/folders/1_MfLg-t-EeUSv2LO3Zh8Z1y66sHKgD3K"
+                    }
+                },
+                {
+                    "id": "MCWC",
+                    "name": "Mobile Computing and Wireless Communication",
+                    "materials": {
+                        "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyGEeaxfWK4yBm4WpsVCKHZD",
+                        "syllabus": "https://drive.google.com/drive/folders/1FOAKM3L3jnUPSambZdhsDubcepqYLRtx",
+                        "papers": "https://drive.google.com/drive/folders/1J45KD3zpcriR4gfa7b22M7AirFY4onZc",
+                        "mimpQna": "https://drive.google.com/drive/folders/136ecBwFmeCKJcX_1YPeZT46k8L-WvbUa",
+                        "pptPdf": "https://drive.google.com/drive/folders/1CNFTKuyiJOiV3SjyAwlvjRT-pOmfTzav",
+                        "gtuBook": "https://drive.google.com/drive/folders/1KXVo-a6ox4vQWoV0Is_iFRrS59P_U8AK",
+                        "studyMaterial": "https://drive.google.com/drive/folders/1B5G222gqXfoK_oHZAmvIiJmO5Kn7aub_"
+                    }
+                },
+                {
+                    "id": "SI",
+                    "name": "Summer Internship",
+                    "materials": {
+                        "syllabus": "https://drive.google.com/drive/folders/1D5vm9xx1dOKl6NrGMsjuIzWKlVfH7grv"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Semester 8",
+            "subjects": []
         }
     ]
 }
