@@ -16,18 +16,17 @@ export default function Footer() {
     ];
 
     return (
-        <footer className="bg-gray-900 text-gray-200 portion-sticky bottom-150 w-full">
-            <div className="max-w-6xl mx-auto px-4 py-10 flex flex-col md:flex-row justify-between items-center md:items-start">
+        <>
+        <footer className="bg-neutral-900 text-gray-200 portion-sticky bottom-150 w-full">
+            <div className="max-w-6xl mx-auto py-6 flex flex-col md:flex-row justify-between items-center md:items-start">
 
-                {/* Logo & Description */}
                 <div className="mb-6 md:mb-0 text-center md:text-left">
-                    <h2 className="text-2xl font-bold text-blue-500">GTU Study Mate</h2>
+                    <h2 className="text-2xl font-bold text-sky-200">GTU Study Material</h2>
                     <p className="mt-2 text-gray-400 max-w-xs">
                         Your one-stop platform for GTU resources, papers, books, and study materials.
                     </p>
                 </div>
 
-                {/* Menu Links */}
                 <div className="mb-6 md:mb-0">
                     <h3 className="font-semibold mb-2">Quick Links</h3>
                     <ul className="flex flex-col space-y-1 text-gray-300">
@@ -44,8 +43,7 @@ export default function Footer() {
                     </ul>
                 </div>
 
-                {/* Social Icons */}
-                <div className="flex space-x-4 mt-4 md:mt-0">
+                <div className="flex space-x-4 md:mt-0">
                     {social.map((s, index) => (
                         <a
                             key={index}
@@ -60,10 +58,10 @@ export default function Footer() {
                 </div>
             </div>
 
-            {/* Bottom Bar */}
-            <div className="border-t border-gray-700 mt-4 text-center py-3 text-gray-500 text-sm">
+            <div className="border-t border-gray-700 text-center py-3 text-gray-500 text-sm">
                 &copy; {new Date().getFullYear()} GTU Study Mate. All rights reserved.
             </div>
         </footer>
+        </>
     );
 }

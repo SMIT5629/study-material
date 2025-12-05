@@ -2,6 +2,7 @@
     "materialTypes": {
         "syllabus": "Syllabus",
         "papers": "GTU Papers",
+        "description": "Description",
         "paperSolution": "Paper Solution",
         "ppts": "PPTs",
         "sheets": "Sheets",
@@ -45,7 +46,8 @@
                         "imp": "https://drive.google.com/drive/folders/1xaznJnUF-3xB9aJz59h8dm5XWv0bwk3G",
                         "qna": "https://drive.google.com/drive/folders/1Pwjjvt1Py77iZvxPRRjQm-cb8vg8tezq",
                         "gtuBook": "https://drive.google.com/drive/folders/1LlfTsqct1yEsxgHTKLQvbABgQ9pdx8n5",
-                        "studyMaterial": "https://drive.google.com/drive/folders/1olXJwX3KvfyAbaiJpcaeHTNnG6UCOYru"
+                        "studyMaterial": "https://drive.google.com/drive/folders/1olXJwX3KvfyAbaiJpcaeHTNnG6UCOYru",
+                        "description": "this subject is core subject for electrical enginnering"
                     }
                 },
                 {

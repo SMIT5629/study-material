@@ -2,9 +2,8 @@ import SemesterList from "../components/SemesterList";
 
 export default function Home() {
     return (
-        <div className="min-h-screen bg-gray-100 flex flex-col items-center px-4 py-8">
+        <div className="min-h-screen bg-slate-200 flex pt-20 flex-col items-center px-4 py-8">
 
-            {/* Hero Section */}
             <header className="w-full max-w-6xl bg-teal-50 rounded-xl shadow-lg p-8 mb-10 text-center">
                 <h1 className="text-4xl font-bold text-gray-800 mb-4">
                     Ultimate Study Platform for GTU Computer, CS, CSE, and IT Students
@@ -17,7 +16,7 @@ export default function Home() {
                 </a>
             </header>
 
-            <section className="w-full max-w-6xl bg-slate-50 shadow-md rounded-xl p-8 mb-10" id="about">
+            <section className="w-full max-w-6xl bg-slate-50 shadow-md rounded-xl p-8 mb-20" id="about">
                 <h2 className="text-3xl font-bold text-gray-800 mb-4">About GTU Study Mates</h2>
                 <p className="text-gray-700 mb-2">
                     <strong>GTU Study Mates</strong> is your one-stop platform for all study materials related to GTU Computer Engineering, CS, CSE, and IT subjects.
@@ -36,8 +35,9 @@ export default function Home() {
                 </div>
             </section>
 
-            <section className="w-full max-w-6xl bg-slate-50 shadow-md rounded-xl p-8 mb-10" id="semesters">
+            <section className="w-full max-w-6xl bg-slate-50 shadow-md rounded-xl p-8 mb-10 scroll-mt-24" id="semesters">
                 <h2 className="text-3xl font-bold text-gray-800 mb-6 text-center">Select Your Semester</h2>
+                <h3 className="pl-7 pb-2">All semester Available</h3>
                 <SemesterList />
             </section>
 

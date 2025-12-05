@@ -7,7 +7,7 @@ export default function SubjectList() {
 
     if (semester.id == 8) {
         return (
-            <div className="max-w-4xl mx-auto my-16 p-10 bg-gray-100 rounded-2xl shadow-lg">
+            <div className="max-w-4xl mx-auto my-16 mt-30 p-10 bg-gray-100 rounded-2xl shadow-lg">
                 <h2 className="text-3xl font-bold text-center text-blue-800 mb-6">
                     Semester 8 - Internship / Project
                 </h2>
@@ -31,7 +31,7 @@ export default function SubjectList() {
     }
 
     return (
-        <div className="max-w-6xl mx-auto px-4 py-8">
+        <div className="max-w-6xl mx-auto px-4 pt-26 py-8 scroll-mt-26">
             <p className="text-center text-gray-500 mb-1">
                 Thanks for visiting my website! 😊
             </p>

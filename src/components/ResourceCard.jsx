@@ -2,7 +2,7 @@ export default function ResourceCard({ title, url }) {
     if (!url) return null;
 
     return (
-        <div className="bg-indigo-50 shadow-md rounded-lg p-4 flex flex-col justify-between hover:shadow-xl transition-shadow duration-300">
+        <div className="bg-indigo-50 shadow-md rounded-lg p-4 flex flex-col justify-between scroll-mt-24 hover:shadow-xl transition-shadow duration-300">
             <a
                 href={url}
                 target="_blank"

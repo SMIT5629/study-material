@@ -11,7 +11,7 @@ export default function SubjectPage() {
     const materialTypes = data.materialTypes;
 
     return (
-        <div className="max-w-6xl mx-auto px-4 py-8">
+        <div className="max-w-6xl pt-26 mx-auto px-4 py-8">
 
             <div className="mb-6 text-gray-600 text-sm">
                 <a href="/semesters" className="hover:text-blue-600">Semesters</a> /
