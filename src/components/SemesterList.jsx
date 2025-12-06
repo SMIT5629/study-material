@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function SemesterList() {
     return (
+        <>
         <div className="max-w-6xl bg-slate-100 rounded-md mx-auto px-4 py-8">
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                 {data.semesters.map((sem) => (
@@ -15,6 +16,9 @@ export default function SemesterList() {
                     </Link>
                 ))}
             </div>
+            
         </div>
+        <p className="text-right text-gray-300"> - From Ayan Menon Resources</p>
+        </>
     );
 }

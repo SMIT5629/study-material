@@ -39,6 +39,7 @@
                 {
                     "id": "BE",
                     "name": "Basic Engineering",
+                    "about": "This course provides an introduction to the fundamental concepts of electrical engineering, mechanical engineering, and civil engineering. Students will gain a basic understanding of engineering principles and their applications in various fields.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1YmjgHAfxxqMVaQtXZiw_WaACVTz2FGXn",
                         "papers": "https://drive.google.com/drive/folders/1V4KInK0H4BQE78Yr0NVdIkmr9LEuRELX",
@@ -53,6 +54,7 @@
                 {
                     "id": "BEE",
                     "name": "Basic Electrical Engineering",
+                    "about":"This course provides an introduction to the fundamental concepts of electrical engineering, including circuit analysis, electrical machines, power systems, and basic electronics. Students will gain a foundational understanding of electrical principles and their applications in various engineering fields.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1Lmnd0X73daTYHjVgF_PA0MXAMobAsD_i",
                         "papers": "https://drive.google.com/drive/folders/1-N6R2BcYHG-QIbzIa3t-TdACcWt03RUk",
@@ -65,6 +67,7 @@
                 {
                     "id": "BME",
                     "name": "Basic mechanical Engineering",
+                    "about":"This course provides an introduction to the fundamental concepts of mechanical engineering, including mechanics, thermodynamics, materials science, and manufacturing processes. Students will gain a basic understanding of mechanical systems and their applications in various industries.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1o81X3NX8QchyJWWdsBajUN75PxGQ4Bsj",
                         "papers": "https://drive.google.com/drive/folders/1j-PkQIZnusNJhr9D-3U4422hGQHMS-nY",
@@ -76,6 +79,7 @@
                 {
                     "id": "EGD",
                     "name": "Engineering Graphics and Design",
+                    "about":"This course introduces students to the principles and techniques of engineering graphics and design. It covers topics such as technical drawing, computer-aided design (CAD), visualization, and geometric construction, enabling students to effectively communicate engineering ideas through graphical representations.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/11iv_qVavty66B4Dd_weYEs0yv7pnwvoi",
                         "papers": "https://drive.google.com/drive/folders/1KqF-LO-Qgz9vB15Oh81GAINNd1WA2FQH",
@@ -89,6 +93,7 @@
                 {
                     "id": "English",
                     "name": "English",
+                    "about":"This course focuses on enhancing students' English language skills, including reading, writing, listening, and speaking. It covers grammar, vocabulary, comprehension, and communication techniques to improve overall proficiency in English for academic and professional purposes.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1erZckJVTk29AkIAHD_E-391VCijiTXsB",
                         "papers": "https://drive.google.com/drive/folders/1pimgDxgxhOp-th7DFvbcQl2KjEXdWRVr",
@@ -102,6 +107,7 @@
                 {
                     "id": "ES",
                     "name": "Environmental Science",
+                    "about":"This course provides an overview of environmental science, covering topics such as ecosystems, biodiversity, pollution, climate change, and sustainable development. Students will learn about the impact of human activities on the environment and explore strategies for conservation and environmental management.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1OmXT6_r30UMrL4Mfjb0pbVswBbW91BQc",
                         "papers": "https://drive.google.com/drive/folders/1DVJnLfAjlU8woHmz8noh8Ozfcce0rJP1",
@@ -113,6 +119,7 @@
                 {
                     "id": "MATH1",
                     "name": "Mathematics 1",
+                    "about":"This course covers fundamental mathematical concepts including calculus, linear algebra, and differential equations. Students will learn techniques for solving mathematical problems and their applications in engineering and science.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/198zBdLRN-G4JxRTLCP_yZjon9nDu9yKy",
                         "papers": "https://drive.google.com/drive/folders/1W28GP9k7bwttK6A9dFUMFfCmJR9xDhmN",
@@ -126,6 +133,7 @@
                 {
                     "id": "MATH2",
                     "name": "Mathematics 2",
+                    "about":"This course covers advanced mathematical concepts including calculus, differential equations, and linear algebra. Students will learn techniques for solving complex mathematical problems and their applications in engineering and science.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1y2C7i20anNrg0a5MTbuzIUHf5W_R-Fsx",
                         "papers": "https://drive.google.com/drive/folders/1Wtc6f00Ji0Kkw5l1O8uq6weuyaQl_u8e",
@@ -138,6 +146,7 @@
                 {
                     "id": "PY2",
                     "name": "Physics 2",
+                    "about":"This course covers fundamental concepts in physics, including mechanics, thermodynamics, electromagnetism, optics, and modern physics. Students will learn through theoretical lessons and practical experiments to understand the physical principles governing the natural world.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1oGBTBVhL1k291e--DGe3wDAU-ov6DIl8",
                         "papers": "https://drive.google.com/drive/folders/1XLrJ1oSj-coEk8utTCSRk8U_mE_1pIXC",
@@ -149,6 +158,7 @@
                 {
                     "id": "PPS",
                     "name": "Progarmming for Problem Solving",
+                    "about":"This course introduces the fundamentals of programming using C language. It covers basic concepts such as data types, control structures, functions, arrays, pointers, and file handling. The course emphasizes problem-solving skills through practical coding exercises and projects.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1Ec-pcNJ_6ipkLvKBzZlsBtj8C9d4cx2R",
                         "papers": "https://drive.google.com/drive/folders/1qwGDRSDb-BDpPp-cgGXtP8n8kWAtXwuI",
@@ -165,6 +175,7 @@
                 {
                     "id": "LAB",
                     "name": "Lab Manuals",
+                    "about":"This includes lab manuals for various practical experiments conducted during the semester. These manuals provide step-by-step instructions, objectives, and theoretical background for each experiment to help students understand and perform the practicals effectively.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1gfSMQCIl_RH480s30bruyqMOdyMrmbJc",
                         "labManual": "https://drive.google.com/drive/folders/1Ii6DQBVZeS5kTzmvDq4RqHSzVZudlHiR"
@@ -179,6 +190,7 @@
                 {
                     "id": "DBMS",
                     "name": "Database Management System",
+                    "about": "This Subject introduces students to database systems, covering design (physical & logical), modeling, and different database models (relational, hierarchical, network). Students will learn to query, update, and manage databases using SQL and PL/SQL, and understand key DBMS concepts like security, integrity, concurrency, and storage strategies, with hands-on practice..",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1jRSSfb092YKrtJyCTzMZDSB_rKoIWy12",
                         "papers": "https://drive.google.com/drive/folders/1p2h6JsXAAuFi3SsgN1FX-A-A57SS6C27",
@@ -195,6 +207,7 @@
                 {
                     "id": "DE1A",
                     "name": "Design Engineering 1A",
+                    "about":"This course introduces students to the Design Thinking methodology through small individual or team projects on general topics. The focus is on the Observation/Empathy phases, guiding students to develop rough prototypes. Week-wise activities help students understand the process while allowing flexibility based on project type and guidance.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyHWEEYx_T3wWPjsKqtzb7Vl",
                         "syllabus": "https://drive.google.com/drive/folders/1ZjG_ggNmIJfLQHSivpqm1ItFoKLR8TP1",
@@ -207,6 +220,7 @@
                 {
                     "id": "DF",
                     "name": "Digital Fundamentals",
+                    "about":"This course introduces students to digital circuits and systems, covering combinational and sequential circuits using digital logic fundamentals, providing the foundation for designing complex systems like microprocessors.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyH_-yB1f3kfrKve9snu72bB",
                         "syllabus": "https://drive.google.com/drive/folders/1Zh7ILGJO2z3jKkbBqVdq51-HmD9KQMKx",
@@ -223,6 +237,7 @@
                 {
                     "id": "DS",
                     "name": "Data Structures",
+                    "about":"This course emphasizes the importance of data structures in efficient programming and algorithm design. Students will learn to select and apply appropriate data structures, reinforced through practical exercises in C, to enhance problem-solving and programming skills.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1749Un0BC-UTgJHCjUCwDajLeC7DyNcZE",
                         "papers": "https://drive.google.com/drive/folders/1F0umpnm4JlzA0TBHQg5gY87SydnmEQ02",
@@ -238,7 +253,8 @@
                 },
                 {
                     "id": "ETC",
-                    "name": "ETC",
+                    "name": "Effective Technical Communication",
+                    "about" :"The course aims to teach technical communication while emphasizing the moral and ethical aspects of engineering.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1fYAtrRAE7N9nPBANIGcu_RN1OykxV2IR",
                         "papers": "https://drive.google.com/drive/folders/1L4FR3g3ggBAHdyaeENGWerQiHWrSHbXZ",
@@ -252,7 +268,8 @@
                 },
                 {
                     "id": "IC",
-                    "name": "IC",
+                    "name": "Indian Constitution",
+                    "about" :"This course provides an overview of the Indian Constitution, covering its historical background, key features, fundamental rights and duties, governance structure, and the roles of various institutions, aiming to enhance students' understanding of their civic responsibilities and the functioning of democracy in India.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1egznPvI6IgXhR4MG1bTD9EK_ATaqigxB",
                         "papers": "https://drive.google.com/drive/folders/1AjQLrcQLTN2j8elBGUL8oznHK6oT0omv",
@@ -267,6 +284,7 @@
                 {
                     "id": "PS",
                     "name": "Probability & Statistics",
+                    "about":"The course covers probability and statistics for analyzing uncertainty and numerical methods for curve fitting. Topics include probability rules, random variables, distributions, sampling, estimation, hypothesis testing, regression, correlation, and numerical techniques like interpolation and numerical integration.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyHASx368hL9xBYLEXM-nTXA",
                         "paperSolutionPlaylist": "https://youtube.com/playlist?list=PLNiD0MJqUzyGT3RZm4NJ57_I92hDm-rrP",
@@ -286,6 +304,7 @@
                 {
                     "id": "COA",
                     "name": "Computer Organization & Architecture",
+                    "about":"This course covers the fundamentals of computer organization and architecture, including data representation, instruction sets, CPU design, memory hierarchy, and I/O systems. Students will learn how hardware components interact to execute programs efficiently.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFUWvkquMNIckIrLIh4RuTf",
                         "syllabus": "https://drive.google.com/drive/folders/18Jsm7lP8Rl9J8YVBtPMnt-F_7VMWq5AY",
@@ -301,6 +320,7 @@
                 {
                     "id": "DE1B",
                     "name": "Design Engineering 1B",
+                    "about":"This course continues the Design Thinking methodology from Design Engineering 1A, focusing on the Ideation, Prototyping, and Testing phases. Students will develop detailed prototypes and test them, refining their designs based on feedback, with week-wise activities to guide their progress.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyHWEEYx_T3wWPjsKqtzb7Vl",
                         "syllabus": "https://drive.google.com/drive/folders/1AJHp0sEq--82N2-ZXWiBi69oc8xq4y8t",
@@ -313,6 +333,7 @@
                 {
                     "id": "DM",
                     "name": "Discrete Mathematics",
+                    "about":"This course introduces discrete mathematical structures essential for computer science, including logic, set theory, combinatorics, graph theory, and algorithms. Students will learn to apply these concepts to solve problems in computing and develop analytical thinking skills.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFig8W6TLF6AT4E7UVyorb9",
                         "paperSolutions": "https://youtube.com/playlist?list=PLNiD0MJqUzyF3tPWHknwMGn1OTb4ba6Ji",
@@ -325,6 +346,7 @@
                 {
                     "id": "OOP1",
                     "name": "Object-Oriented Programming - I",
+                    "about":"This course introduces object-oriented programming (OOP) concepts using C++. Students will learn about classes, objects, inheritance, polymorphism, encapsulation, and abstraction. The course emphasizes practical programming skills through hands-on exercises and projects.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1jbf-b5JDk5Sql2P0vQxwe5vU2mIH68gz",
                         "papers": "https://drive.google.com/drive/folders/1PD_-lDJ-j1JStXi7lwgP8bQ8uGWUQhSe",
@@ -341,6 +363,7 @@
                 {
                     "id": "OS",
                     "name": "Operating System",
+                    "about":"This course covers the fundamental concepts of operating systems, including process management, memory management, file systems, and security. Students will learn how operating systems function and manage hardware resources, with practical insights into system calls and OS design.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFQjsrJkJYs67Mpy5svZgdf",
                         "syllabus": "https://drive.google.com/drive/folders/1NO63wf6glr1hhx4eHUFpjvLMTpYtWPgn",
@@ -356,6 +379,7 @@
                 {
                     "id": "PEM",
                     "name": "Principle of Engineering Management",
+                    "about":"This course introduces the principles of engineering management, covering topics such as project management, quality control, operations management, and organizational behavior. Students will learn how to effectively manage engineering projects and teams in a professional setting.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1hT4j4s026tdNfTW3x3BWiFA73oh8YPIK",
                         "papers": "https://drive.google.com/drive/folders/1mBUq3kiEzl7Vj1IV2F1Jgbwdn4zJh4S9",
@@ -377,6 +401,7 @@
                 {
                     "id": "ADA",
                     "name": "Analysis and Design of Algorithms",
+                    "about":"This course covers the principles of algorithm analysis and design, including time and space complexity, sorting and searching algorithms, divide-and-conquer strategies, dynamic programming, greedy algorithms, and graph algorithms. Students will learn to evaluate and implement efficient algorithms for problem-solving.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFIs5vdYut37LJao0R5DGHV",
                         "syllabus": "https://drive.google.com/drive/folders/1Z3tEaN8Cw7R-yq2WFcfXezRNEp8w-V0a",
@@ -391,6 +416,7 @@
                 {
                     "id": "CN",
                     "name": "Computer Networks",
+                    "about":"This course introduces the fundamentals of computer networks, covering topics such as network architectures, protocols, data transmission, and network security. Students will learn about the OSI and TCP/IP models, routing algorithms, and various networking technologies through theoretical concepts and practical applications.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyEYRI_xyCcdnK3GKoE2DmfE",
                         "practicalsPlaylist": "https://youtube.com/playlist?list=PLNiD0MJqUzyFtd6vIdknZId7fOA64lUzP",
@@ -410,6 +436,7 @@
                 {
                     "id": "CS",
                     "name": "Cyber Security",
+                    "about":"This course provides an introduction to cyber security principles and practices, covering topics such as threat landscape, cryptography, network security, application security, and incident response. Students will learn how to protect information systems from cyber threats through theoretical knowledge and practical skills.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1cY4Yyd8yrI4LOsho3P56Q35DDEFqeoxb",
                         "paperSolution": "https://drive.google.com/drive/folders/1agLOX6-T5M8kHP3S3h3uEVLWxw-5pgx0",
@@ -422,6 +449,7 @@
                 {
                     "id": "DE2A",
                     "name": "Design Engineering - 2A",
+                    "about":"This course builds on Design Engineering 2A, focusing on advanced design thinking and project execution. Students will work on complex projects, applying iterative design processes, user feedback, and prototyping techniques to develop innovative solutions, with structured weekly activities to support their progress.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyHWEEYx_T3wWPjsKqtzb7Vl",
                         "syllabus": "https://drive.google.com/drive/folders/1bv-sQi7BywsYfZGbeN6LRZv50PTXqQbg",
@@ -434,6 +462,7 @@
                 {
                     "id": "IPDC1",
                     "name": "Industry/Project Driven Curriculum - 1",
+                    "about":"This course focuses on practical industry and project-driven learning, allowing students to engage in real-world projects and internships. It aims to bridge the gap between academic knowledge and industry requirements, enhancing students' skills and employability through hands-on experience.",
                     "materials": {
                         "playlist": "https://youtube.com/playlist?list=PLNiD0MJqUzyErSGrIvFW_CHfQ3DMpQqPI",
                         "syllabus": "https://drive.google.com/drive/folders/1W1eWct8-Hk882DE7LWXPUVDLpuJrnc5y",
@@ -443,6 +472,7 @@
                 {
                     "id": "PDS",
                     "name": "Parallel and Distributed Systems",
+                    "about":"This course introduces the concepts of parallel and distributed systems, covering parallel computing architectures, distributed algorithms, communication protocols, and synchronization techniques. Students will learn how to design and analyze parallel and distributed systems for efficient computation and resource sharing.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/18l2oibs2D_I7OK9q83Rlz6d5CjH6uSx7",
                         "papers": "https://drive.google.com/drive/folders/1kKEeUUuFSiJ5Ue5wZGeVYaceSAlvHBtC",
@@ -457,6 +487,7 @@
                 {
                     "id": "PE",
                     "name": "Professional Ethics",
+                    "about":"This course explores the ethical principles and professional responsibilities of engineers. Topics include ethical theories, codes of conduct, social responsibility, and case studies of ethical dilemmas in engineering practice. Students will develop critical thinking skills to navigate ethical challenges in their professional careers.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1bJRf3fonUBT_Dk6-7tmF5l3162_EDhEd",
                         "papers": "https://drive.google.com/drive/folders/1bT412OzxN8kFv1qXtWMgm2AvK_RlQZyU",
@@ -472,6 +503,7 @@
                 {
                     "id": "SE",
                     "name": "Software Engineering",
+                    "about":"This course covers the principles and practices of software engineering, including software development life cycle, requirements analysis, design methodologies, testing, maintenance, and project management. Students will learn how to develop high-quality software systems through teamwork and practical applications.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1OTd5GPZGi82EaB8bgBMMc81N2I9vBUY3",
                         "papers": "https://drive.google.com/drive/folders/1Rf1mZ-zJbb5ksDV2-ITnmLgvA9CauSzM",
@@ -493,6 +525,7 @@
                 {
                     "id": "AI",
                     "name": "Artificial Intelligence",
+                    "about":"This course provides an introduction to artificial intelligence (AI) concepts and techniques, including search algorithms, knowledge representation, reasoning, machine learning, and natural language processing. Students will learn how to design and implement AI systems to solve complex problems.",
                     "materials": {
                         "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyF4Kysh2ybeujieSidvXgrG",
                         "syllabus": "https://drive.google.com/drive/folders/1PEdl_Bcx_5GE-j5_hejESO84NO_nyYBh",
@@ -507,6 +540,7 @@
                 {
                     "id": "BDA",
                     "name": "Big Data Analytics",
+                    "about":".This course introduces big data analytics concepts and techniques, including data processing frameworks, data mining, machine learning, and visualization. Students will learn how to handle large datasets and extract meaningful insights using tools like Hadoop and Spark.",
                     "materials": {
                         "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyF-uv-F0LEDGnF8jET3aaeu",
                         "syllabus": "https://drive.google.com/drive/folders/1zSUgz-3bFhYggFvlwLVpeNyXHFvxx1ZW",
@@ -521,6 +555,7 @@
                 {
                     "id": "CD",
                     "name": "Compiler Design",
+                    "about":"This course covers the principles and techniques of compiler design, including lexical analysis, syntax analysis, semantic analysis, optimization, and code generation. Students will learn how to build a compiler for a programming language, understanding the various phases involved in the compilation process.",
                     "materials": {
                         "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyHfwTqSe7Tce43XwHfLlXU9",
                         "syllabus": "https://drive.google.com/drive/folders/1HDogKMRHzuC9eL_6c8-dMEpatRc8DhWk",
@@ -535,6 +570,7 @@
                 {
                     "id": "IS",
                     "name": "Information Security",
+                    "about":"This course explores the principles and practices of information security, including risk management, cryptography, network security, and security policies. Students will learn how to protect information systems from threats and vulnerabilities through theoretical knowledge and practical applications.",
                     "materials": {
                         "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyEIiYUvoPXJAxRlq06N21qi",
                         "syllabus": "https://drive.google.com/drive/folders/1kPz2wLjZnpMuXkRKVjn1WRCciDmlPV7v",
@@ -549,6 +585,7 @@
                 {
                     "id": "MAD",
                     "name": "Mobile Application Development",
+                    "about":"This course focuses on the development of mobile applications for platforms such as Android and iOS. Students will learn about mobile UI/UX design, application architecture, and programming languages used in mobile development. The course includes hands-on projects to build functional mobile apps.",
                     "materials": {
                         "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyHAJ57jVv_r7mKsbSr9Wgd_",
                         "syllabus": "https://drive.google.com/drive/folders/1k_8Nc6aDTMXjb9-3zy-7Qj8_zSijdZrd",
@@ -562,6 +599,7 @@
                 {
                     "id": "MCWC",
                     "name": "Mobile Computing and Wireless Communication",
+                    "about":"This course covers the fundamentals of mobile computing and wireless communication, including mobile network architectures, wireless protocols, and mobile application development. Students will learn about the challenges and solutions in mobile computing through theoretical concepts and practical applications.",
                     "materials": {
                         "playlist": "https://www.youtube.com/playlist?list=PLNiD0MJqUzyGEeaxfWK4yBm4WpsVCKHZD",
                         "syllabus": "https://drive.google.com/drive/folders/1FOAKM3L3jnUPSambZdhsDubcepqYLRtx",
@@ -575,6 +613,7 @@
                 {
                     "id": "SI",
                     "name": "Summer Internship",
+                    "about":"This course involves a summer internship program where students gain practical experience by working in industry settings. The internship allows students to apply their academic knowledge to real-world projects, develop professional skills, and understand workplace dynamics.",
                     "materials": {
                         "syllabus": "https://drive.google.com/drive/folders/1D5vm9xx1dOKl6NrGMsjuIzWKlVfH7grv"
                     }

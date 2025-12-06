@@ -24,7 +24,7 @@ export default function SubjectPage() {
             {subject.description && (
                 <p className="mb-6 text-gray-700 text-lg">{subject.description}</p>
             )}
-            
+
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">Available Resources</h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
@@ -32,6 +32,11 @@ export default function SubjectPage() {
                     <ResourceCard key={key} title={materialTypes[key]} url={value} />
                 ))}
             </div>
+            <p className="bg-white text-lg mt-10  p-4 text-gray-500 italic my-4 text-justify">
+                {subject.about}
+            </p>
+
+
         </div>
 
     );

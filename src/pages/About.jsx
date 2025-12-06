@@ -35,6 +35,7 @@ export default function About() {
                     Whether you are preparing for GTU mid-semesters, practicals, or final exams,
                     GTU Study Mate is here to guide you with the best study resources.
                 </p>
+                <p className="text-right text-gray-300">- From Ayan Menon resources</p>
             </section>
 
         </div>
